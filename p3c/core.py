@@ -1,3 +1,8 @@
+# p3c - Cubic polynomial transformation based on the complex plane
+# Copyright (c) 2025 Juan J. Granados and Rafael Gallego
+# License: MIT (see LICENSE file for details)
+
+
 import math
 import cmath
 from typing import Callable

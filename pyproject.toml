@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "p3c"
+version = "1.0.0"
+description = "Cubic polynomial transformation (p3c) based on the complex plane for regularization purposes. Given three interpolation points defining a quadratic boundary element and a collocation point, it returns the main and secondary poles, the transformed pole, iteration data, cubic coefficients, and callable functions for evaluation and its Jacobian."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Juan J. Granados" },
+    { name = "Rafael Gallego" }
+]
+license = { file = "LICENSE" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://github.com/juan-j-granados/p3c"
+Issues = "https://github.com/juan-j-granados/p3c/issues"
+
+

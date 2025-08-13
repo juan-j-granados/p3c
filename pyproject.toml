@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "p3c"
-version = "1.0.0"
+version = "1.0.1"
 description = "Cubic polynomial transformation (p3c) based on the complex plane for regularization purposes. Given three interpolation points defining a quadratic boundary element and a collocation point, it returns the main and secondary poles, the transformed pole, iteration data, cubic coefficients, and callable functions for evaluation and its Jacobian."
 readme = "README.md"
 requires-python = ">=3.9"

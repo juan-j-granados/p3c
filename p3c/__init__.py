@@ -11,7 +11,7 @@ License:
 """
 
 __author__ = "Juan J. Granados, Rafael Gallego"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __license__ = "MIT"
 
 from .core import build_p3c

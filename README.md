@@ -1,5 +1,7 @@
 # p3c
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16836495.svg)](https://doi.org/10.5281/zenodo.16836495)
+
 **p3c** is a Python library that computes a cubic polynomial transformation, based on the complex plane, for regularization purposes.  
 
 Given a collocation point and the three interpolation points defining a quadratic boundary element, it returns:

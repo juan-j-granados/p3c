@@ -9,8 +9,8 @@ description = "Cubic polynomial transformation (p3c) based on the complex plane 
 readme = "README.md"
 requires-python = ">=3.9"
 authors = [
-    { name = "Juan J. Granados" },
-    { name = "Rafael Gallego" }
+    { name = "Juan J. Granados", orcid = "https://orcid.org/0000-0002-0707-2897" },
+    { name = "Rafael Gallego", orcid = "https://orcid.org/0000-0002-7260-0940" }
 ]
 license = { file = "LICENSE" }
 classifiers = [

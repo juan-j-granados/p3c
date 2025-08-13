@@ -1,6 +1,8 @@
 # p3c - Cubic polynomial transformation based on the complex plane
+# for regularizing nearly singular integrals in the boundary element method.
 # Copyright (c) 2025 Juan J. Granados and Rafael Gallego
 # License: MIT (see LICENSE file for details)
+
 
 
 import math

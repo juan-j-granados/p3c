@@ -15,6 +15,28 @@ Given a collocation point and the three interpolation points defining a quadrati
 
 ---
 
+## Authors
+
+- [Juan J. Granados](https://orcid.org/0000-0002-0707-2897)  
+- [Rafael Gallego](https://orcid.org/0000-0002-7260-0940)  
+
+---
+
+## Questions, Bug Reports, and Feature Requests
+
+If you encounter a problem, have a question, or would like to request a new feature, please use the  
+[GitHub Issues page](https://github.com/juan-j-granados/p3c/issues).
+
+We provide dedicated issue templates for:
+- **Bug reports** – to help us reproduce and fix problems quickly.
+- **Feature requests** – to suggest improvements or new capabilities.
+
+Before opening an issue:
+1. Check the [README](https://github.com/juan-j-granados/p3c#readme) and examples to see if your question is already answered.
+2. Search existing issues to avoid duplicates.
+
+---
+
 ## Background
 
 In many boundary element method (BEM) formulations, certain integrals become nearly singular when the collocation point lies close to the element being integrated.  
